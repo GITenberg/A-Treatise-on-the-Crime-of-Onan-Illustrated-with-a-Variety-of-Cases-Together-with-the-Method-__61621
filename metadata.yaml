@@ -1,11 +1,16 @@
 _repo: A-Treatise-on-the-Crime-of-Onan-Illustrated-with-a-Variety-of-Cases-Together-with-the-Method-__61621
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61621-h/images/cover.jpg
 creator:
   author:
     agent_name: Tissot, M.
     gutenberg_agent_id: '51526'
     url: http://www.gutenberg.org/2009/agents/51526
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61621#A-Treatise-on-the-Crime-of-Onan-Illustrated-with-a-Variety-of-Cases-Together-with-the-Method-_
 gutenberg_issued: '2020-03-14'
 gutenberg_type: Text
 identifiers:
